@@ -1,5 +1,5 @@
 # Paddy-Rice-Evaluation-Sites
-30 samples are selected for each sampling site in our study area using stratified sampling method, which classifies the whole data into different provincial groups and randomly extracts the samples from each provincial group. 
+30 sampling sites were sorted out using the stratified sampling method which categorize the whole data into each provincial group and randomly extract it from each group.
 
 ### 30 sampling sites in the red grid
 
