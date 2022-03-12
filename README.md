@@ -13,7 +13,7 @@
 
 ### Implementation
 
-paddy rice and Crop land was divided by growth period through visual interpolation, based on their texture and color, in order to be used as criteria for creating the paddy rice validation data.
+The criteria for classification, whether paddy rice or other crop cultivation during each growing period, was set based on its texture and color while visual image interpretation.
 
 ### Texture, Color, Characteristics, Classification method and criteria by growth period of paddy rice
 
