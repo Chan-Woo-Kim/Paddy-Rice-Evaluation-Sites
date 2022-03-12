@@ -31,17 +31,17 @@ The criteria for classification, whether paddy rice or other crop cultivation du
 
 ### Result
 
-The paddy rice validation data is in the format of shape, and the size of sampling sites with 2.56km resolution. The visual interpolation was performed intensively from July to October when rice growth was best seen. 
+The validation data for paddy rice were the same shapes with a 2.56km resolution. The major growth period for visual image interpretations was from July to October when the rice growth was seen clearly. 
 
-- In the case where it is used as paddy rice but there is no information
+- case 1. The paddy rice area without information on the paddy rice map
 
 ![그림1](https://user-images.githubusercontent.com/101398489/157892198-5ae4a873-d550-47ea-a685-74439c917446.png)
 
-- In the case the boundaries are wrong
+- case 2. The inconsistent boundaries
 
 ![그림2](https://user-images.githubusercontent.com/101398489/157892828-c270739b-36c8-4dfa-a21c-6d5f42aaadc5.png)
 
--	In the case the area isn’t the paddy rice
+-	case 3. The unmatched area without paddy rice
 
 ![그림3](https://user-images.githubusercontent.com/101398489/157892880-fc10df25-2121-4e6c-924f-9eaa9937eabb.png)
 
