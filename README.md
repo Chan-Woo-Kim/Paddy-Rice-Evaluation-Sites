@@ -7,7 +7,7 @@
 
 ### Data
 
-- The data for the agricultural area provided by Statistics Korea was classified by each province.(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB002). The already existing paddy rice map includes non-agricultural and fallow land that are not necessary. 
+- The data for the agricultural area provided by Statistics Korea was classified by each province.(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB002). The existing paddy rice map includes non-agricultural land such as fallow land, which is unnecessary for the research.
 
 - To collect the precise paddy rice map, the visual image interpretation was done using Google Earth Pro with grid image in 2020, and it became the validation data including only paddy rice information.
 
@@ -15,17 +15,17 @@
 
 The criteria for classification, whether paddy rice or other crop cultivation during each growing period, was set based on its texture and color while visual image interpretation.
 
-### Texture, Color, Characteristics, Classification method and criteria by growth period of paddy rice
+### The classification criteria by each growing period on paddy rice: Texture and Color.
 
-- After harvesting, before sowing (Nov ~ Apr): straight and rough pattern, dark brown
+- After harvesting, before sowing (November to April): straightly rough pattern with dark brown color
 
 ![image](https://user-images.githubusercontent.com/101398489/157891020-a7a3821a-24c4-43c5-8b31-576073804bc3.png)  ![image](https://user-images.githubusercontent.com/101398489/157891028-7b380b76-0acf-4ef9-a2fb-97c54827a5db.png)
 
-- After sowing and planting (May ~ Jun): soft surface filled with water, light brown
+- After sowing and planting (May to June): soft surface filled with water with light brown color
 
 ![image](https://user-images.githubusercontent.com/101398489/157890930-67ffdebf-4ae1-4252-ad0d-a4b909e329eb.png)  ![image](https://user-images.githubusercontent.com/101398489/157890948-5fbc212a-c7dc-49b3-aac3-fdada00b006f.png)
 
-- Growth (Jun ~ Oct): grainy surface, light green
+- Growing rice (June to October): grainy surface with light green color
 
 ![image](https://user-images.githubusercontent.com/101398489/157890774-361fb4d9-454b-4677-8cd3-fc261c5c77b8.png)  ![image](https://user-images.githubusercontent.com/101398489/157890884-d4c148a0-0e12-4479-b9c4-142f2eb06f8a.png)
 
