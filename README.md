@@ -47,7 +47,7 @@ The validation data for paddy rice were the same shapes with a 2.56km resolution
 
 ### Reference
 
-If you use this dataset, please cite the DOI below 10.5281/zenodo.5845896 (https://doi.org/10.5281/zenodo.5845896)
+If you use this dataset, please cite the DOI below 10.5281/zenodo.5846018 (https://zenodo.org/record/5846018#.Yi62E3pBxjV)
 
 ### Acknowledgements
 
