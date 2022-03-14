@@ -33,7 +33,9 @@ The criteria for classification, whether paddy rice or other crop cultivation du
 
 ### Result
 
-The paddy rice validation data is in the format of shape, and the size of which sites with 2.56km by 2.56km. The major growth period for visual image interpretations was from July to October when the rice growth was seen clearly. 
+The paddy rice validation data is in the format of shape, and the size of which sites with 2.56km by 2.56km.
+
+The major growth period for visual image interpretations was from July to October when the rice growth was seen clearly. 
 
 - case 1. The paddy rice area without information on the paddy rice map
 
