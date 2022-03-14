@@ -7,7 +7,9 @@
 
 ### Data
 
-The data for the agricultural area provided by Statistics Korea was classified by each province.(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB002). The existing paddy rice map includes non-agricultural land such as fallow land, which is unnecessary for the research.
+The data for the agricultural area provided by Statistics Korea was classified by each province.(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB002). 
+
+This data was established based on the criteria below, being shareable to diverse users. This data improved errors in previous data, such as boundary error or classification uncertainty.
 
 To collect the precise paddy rice map, the visual image interpretation was done using Google Earth Pro with grid image in 2020, and it became the validation data including only paddy rice information.
 
@@ -31,7 +33,7 @@ The criteria for classification, whether paddy rice or other crop cultivation du
 
 ### Result
 
-The validation data for paddy rice were the same shapes with a 2.56km resolution. The major growth period for visual image interpretations was from July to October when the rice growth was seen clearly. 
+The paddy rice validation data is in the format of shape, and the size of which sites with 2.56km by 2.56km. The major growth period for visual image interpretations was from July to October when the rice growth was seen clearly. 
 
 - case 1. The paddy rice area without information on the paddy rice map
 
